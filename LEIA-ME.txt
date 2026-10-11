@@ -1,0 +1,17 @@
+QUIOSQUE VIRTUAL — PRAZERES INTERROMPIDOS
+
+1. Crie um repositório público no GitHub chamado quiosque-virtual.
+2. Extraia este ZIP. Carregue os ficheiros diretamente na raiz do repositório. O index.html não deve ficar dentro de outra pasta.
+3. Em Settings > Pages, escolha Deploy from a branch, ramo main, pasta / (root), e Save.
+4. Aguarde que o GitHub apresente a ligação publicada.
+5. No Google Sites, crie a página Quiosque Virtual (ou edite a página Literatura).
+6. Escolha Inserir > Incorporar > Por URL e cole a ligação publicada pelo GitHub.
+7. Alargue o bloco ao máximo e ajuste a altura para permitir explorar os cartões. Publique o Google Sites.
+
+Se a sua conta GitHub for prazeres-interrompidos e usar o nome indicado acima, a ligação será:
+https://prazeres-interrompidos.github.io/quiosque-virtual/
+Confirme sempre a ligação apresentada em Settings > Pages.
+
+A página funciona sem instalação e sem dependências externas. O fundo e os cartões são desenhados pela própria página. Inclui 47 referências, pesquisa, filtros e ligações que abrem numa nova janela.
+
+O index.html contém todos os dados usados pela página. publicacoes.json é uma cópia legível para consulta; alterá-lo, por si só, não atualiza os cartões. Para atualizar os cartões, edite a constante data no index.html.

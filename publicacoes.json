@@ -1,0 +1,378 @@
+[
+  {
+    "name": "A Celebration of Women Writers",
+    "url": "https://digital.library.upenn.edu/women/",
+    "country": "Estados Unidos",
+    "language": "Inglês",
+    "category": "Portais",
+    "description": "Arquivo dedicado à obra de escritoras."
+  },
+  {
+    "name": "Academy of American Poets",
+    "url": "https://poets.org/",
+    "country": "Estados Unidos",
+    "language": "Inglês",
+    "category": "Poesia",
+    "description": "Poemas, autores e recursos sobre poesia."
+  },
+  {
+    "name": "Booklist",
+    "url": "https://www.booklistonline.com/",
+    "country": "Estados Unidos",
+    "language": "Inglês",
+    "category": "Revistas",
+    "description": "Crítica e recomendações de leitura."
+  },
+  {
+    "name": "BookPage",
+    "url": "https://www.bookpage.com/",
+    "country": "Estados Unidos",
+    "language": "Inglês",
+    "category": "Revistas",
+    "description": "Recensões, entrevistas e sugestões de livros."
+  },
+  {
+    "name": "CBC Books",
+    "url": "https://www.cbc.ca/books",
+    "country": "Canadá",
+    "language": "Inglês",
+    "category": "Portais",
+    "description": "Livros, autores e notícias literárias."
+  },
+  {
+    "name": "Colóquio Letras",
+    "url": "https://coloquio.gulbenkian.pt/",
+    "country": "Portugal",
+    "language": "Português",
+    "category": "Revistas",
+    "description": "Revista de literatura da Fundação Calouste Gulbenkian."
+  },
+  {
+    "name": "Corriere Della Sera - Cultura",
+    "url": "https://www.corriere.it/cultura/",
+    "country": "Itália",
+    "language": "Italiano",
+    "category": "Jornais",
+    "description": "Secção de livros e cultura do jornal."
+  },
+  {
+    "name": "El País - Babelia",
+    "url": "https://elpais.com/babelia/",
+    "country": "Espanha",
+    "language": "Espanhol",
+    "category": "Jornais",
+    "description": "Secção de livros e cultura do jornal."
+  },
+  {
+    "name": "Every Writer",
+    "url": "https://www.everywritersresource.com/",
+    "country": "Estados Unidos",
+    "language": "Inglês",
+    "category": "Portais",
+    "description": "Artigos e recursos sobre livros e escrita."
+  },
+  {
+    "name": "Folha de São Paulo - Livros",
+    "url": "https://www1.folha.uol.com.br/ilustrada/livros/",
+    "country": "Brasil",
+    "language": "Português",
+    "category": "Jornais",
+    "description": "Secção de livros e cultura do jornal."
+  },
+  {
+    "name": "Granta Magazine",
+    "url": "https://www.granta.com/",
+    "country": "Reino Unido",
+    "language": "Inglês",
+    "category": "Revistas",
+    "description": "Ensaios, entrevistas e crítica literária."
+  },
+  {
+    "name": "Harper's Magazine",
+    "url": "https://harpers.org/",
+    "country": "Estados Unidos",
+    "language": "Inglês",
+    "category": "Revistas",
+    "description": "Ensaios, entrevistas e crítica literária."
+  },
+  {
+    "name": "Harvard Review Online",
+    "url": "https://www.harvardreview.org/review/",
+    "country": "Estados Unidos",
+    "language": "Inglês",
+    "category": "Revistas",
+    "description": "Ensaios, entrevistas e crítica literária."
+  },
+  {
+    "name": "Independent - Books",
+    "url": "https://www.independent.co.uk/arts-entertainment/books",
+    "country": "Reino Unido",
+    "language": "Inglês",
+    "category": "Jornais",
+    "description": "Secção de livros e cultura do jornal."
+  },
+  {
+    "name": "Independent Publisher Book Awards",
+    "url": "https://ippyawards.com/",
+    "country": "Estados Unidos",
+    "language": "Inglês",
+    "category": "Prémios",
+    "description": "Informação sobre distinções e autores premiados."
+  },
+  {
+    "name": "Jornal de Letras",
+    "url": "https://visao.pt/jornaldeletras/",
+    "country": "Portugal",
+    "language": "Português",
+    "category": "Jornais",
+    "description": "Secção de livros e cultura do jornal."
+  },
+  {
+    "name": "El Mundo — Cultura",
+    "url": "https://www.elmundo.es/cultura.html",
+    "country": "Espanha",
+    "language": "Espanhol",
+    "category": "Jornais",
+    "description": "Secção de livros e cultura do jornal."
+  },
+  {
+    "name": "La Repubblica — Cultura",
+    "url": "https://www.repubblica.it/cultura/",
+    "country": "Itália",
+    "language": "Italiano",
+    "category": "Jornais",
+    "description": "Secção de livros e cultura do jornal."
+  },
+  {
+    "name": "La Vanguardia — Cultura",
+    "url": "https://www.lavanguardia.com/cultura",
+    "country": "Espanha",
+    "language": "Espanhol",
+    "category": "Jornais",
+    "description": "Secção de livros e cultura do jornal."
+  },
+  {
+    "name": "Jornal Público - ípsilon",
+    "url": "https://www.publico.pt/culturaipsilon",
+    "country": "Portugal",
+    "language": "Português",
+    "category": "Jornais",
+    "description": "Secção de livros e cultura do jornal."
+  },
+  {
+    "name": "L'Express - Livres",
+    "url": "https://www.lexpress.fr/culture/livre/",
+    "country": "França",
+    "language": "Francês",
+    "category": "Jornais",
+    "description": "Secção de livros e cultura do jornal."
+  },
+  {
+    "name": "Le Figaro - Livres",
+    "url": "https://www.lefigaro.fr/livres",
+    "country": "França",
+    "language": "Francês",
+    "category": "Jornais",
+    "description": "Secção de livros e cultura do jornal."
+  },
+  {
+    "name": "Le Monde - Livres",
+    "url": "https://www.lemonde.fr/livres/",
+    "country": "França",
+    "language": "Francês",
+    "category": "Jornais",
+    "description": "Secção de livros e cultura do jornal."
+  },
+  {
+    "name": "Lire Magazine littéraire",
+    "url": "https://www.lire.fr/",
+    "country": "França",
+    "language": "Francês",
+    "category": "Revistas",
+    "description": "Ensaios, entrevistas e crítica literária."
+  },
+  {
+    "name": "Literary Hub",
+    "url": "https://lithub.com/",
+    "country": "Estados Unidos",
+    "language": "Inglês",
+    "category": "Portais",
+    "description": "Artigos e recursos sobre livros e escrita."
+  },
+  {
+    "name": "Literary Review",
+    "url": "https://literaryreview.co.uk/",
+    "country": "Reino Unido",
+    "language": "Inglês",
+    "category": "Revistas",
+    "description": "Ensaios, entrevistas e crítica literária."
+  },
+  {
+    "name": "London Review of Books",
+    "url": "https://www.lrb.co.uk/",
+    "country": "Reino Unido",
+    "language": "Inglês",
+    "category": "Revistas",
+    "description": "Ensaios, entrevistas e crítica literária."
+  },
+  {
+    "name": "Los Angeles Times - Books",
+    "url": "https://www.latimes.com/entertainment-arts/books",
+    "country": "Estados Unidos",
+    "language": "Inglês",
+    "category": "Jornais",
+    "description": "Secção de livros e cultura do jornal."
+  },
+  {
+    "name": "The Booker Prizes",
+    "url": "https://thebookerprizes.com/",
+    "country": "Reino Unido",
+    "language": "Inglês",
+    "category": "Prémios",
+    "description": "Informação sobre distinções e autores premiados."
+  },
+  {
+    "name": "Prémio Nobel de Literatura",
+    "url": "https://www.nobelprize.org/prizes/literature/",
+    "country": "Suécia",
+    "language": "Inglês",
+    "category": "Prémios",
+    "description": "Informação sobre distinções e autores premiados."
+  },
+  {
+    "name": "Ploughshares",
+    "url": "https://pshares.org/",
+    "country": "Estados Unidos",
+    "language": "Inglês",
+    "category": "Revistas",
+    "description": "Ensaios, entrevistas e crítica literária."
+  },
+  {
+    "name": "Revista Ler",
+    "url": "https://ler.blogs.sapo.pt/",
+    "country": "Portugal",
+    "language": "Português",
+    "category": "Revistas",
+    "description": "Ensaios, entrevistas e crítica literária."
+  },
+  {
+    "name": "Revista Qué Leer",
+    "url": "https://www.que-leer.com/",
+    "country": "Espanha",
+    "language": "Espanhol",
+    "category": "Revistas",
+    "description": "Ensaios, entrevistas e crítica literária."
+  },
+  {
+    "name": "Slate Book Review",
+    "url": "https://slate.com/tag/slate-book-review",
+    "country": "Estados Unidos",
+    "language": "Inglês",
+    "category": "Portais",
+    "description": "Artigos e recursos sobre livros e escrita."
+  },
+  {
+    "name": "The American Poetry Review",
+    "url": "https://aprweb.org/",
+    "country": "Estados Unidos",
+    "language": "Inglês",
+    "category": "Poesia",
+    "description": "Um espaço dedicado à poesia e aos seus autores."
+  },
+  {
+    "name": "The Atlantic - Culture",
+    "url": "https://www.theatlantic.com/culture/",
+    "country": "Estados Unidos",
+    "language": "Inglês",
+    "category": "Revistas",
+    "description": "Ensaios, entrevistas e crítica literária."
+  },
+  {
+    "name": "The Guardian Books",
+    "url": "https://www.theguardian.com/books",
+    "country": "Reino Unido",
+    "language": "Inglês",
+    "category": "Jornais",
+    "description": "Secção de livros e cultura do jornal."
+  },
+  {
+    "name": "The Literary Platform",
+    "url": "https://theliteraryplatform.com/",
+    "country": "Reino Unido",
+    "language": "Inglês",
+    "category": "Portais",
+    "description": "Artigos e recursos sobre livros e escrita."
+  },
+  {
+    "name": "The New York Review of Books",
+    "url": "https://www.nybooks.com/",
+    "country": "Estados Unidos",
+    "language": "Inglês",
+    "category": "Revistas",
+    "description": "Ensaios, entrevistas e crítica literária."
+  },
+  {
+    "name": "The New York Times Best Sellers",
+    "url": "https://www.nytimes.com/books/best-sellers/",
+    "country": "Estados Unidos",
+    "language": "Inglês",
+    "category": "Jornais",
+    "description": "Secção de livros e cultura do jornal."
+  },
+  {
+    "name": "The New Yorker",
+    "url": "https://www.newyorker.com/",
+    "country": "Estados Unidos",
+    "language": "Inglês",
+    "category": "Revistas",
+    "description": "Ensaios, entrevistas e crítica literária."
+  },
+  {
+    "name": "The Paris Review",
+    "url": "https://www.theparisreview.org/",
+    "country": "Estados Unidos",
+    "language": "Inglês",
+    "category": "Revistas",
+    "description": "Ensaios, entrevistas e crítica literária."
+  },
+  {
+    "name": "The Poetry Society",
+    "url": "https://poetrysociety.org.uk/",
+    "country": "Reino Unido",
+    "language": "Inglês",
+    "category": "Poesia",
+    "description": "Um espaço dedicado à poesia e aos seus autores."
+  },
+  {
+    "name": "The Pulitzer Prizes",
+    "url": "https://www.pulitzer.org/",
+    "country": "Estados Unidos",
+    "language": "Inglês",
+    "category": "Prémios",
+    "description": "Informação sobre distinções e autores premiados."
+  },
+  {
+    "name": "The Times Literary Supplement",
+    "url": "https://www.the-tls.co.uk/",
+    "country": "Reino Unido",
+    "language": "Inglês",
+    "category": "Revistas",
+    "description": "Ensaios, entrevistas e crítica literária."
+  },
+  {
+    "name": "The Writer",
+    "url": "https://www.writermag.com/",
+    "country": "Estados Unidos",
+    "language": "Inglês",
+    "category": "Revistas",
+    "description": "Ensaios, entrevistas e crítica literária."
+  },
+  {
+    "name": "Tufts Poetry Awards",
+    "url": "https://arts.cgu.edu/tufts-poetry-awards/",
+    "country": "Estados Unidos",
+    "language": "Inglês",
+    "category": "Prémios",
+    "description": "Informação sobre distinções e autores premiados."
+  }
+]
